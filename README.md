@@ -9,8 +9,7 @@
 
 - 🌱 I’m currently learning: **React, RTK, React Query, tRPC, Firebase, CSS, TypeScript**
 
-- 📫 How to reach me: **udborets@gmail.com**
-
+- 📫 How to reach me: </br> **telegram: [@udborets](https://t.me/udborets), VK: [@udborets](https://vk.com/udborets), Email: [udborets@gmail.com](mailto:udborets@gmail.com)**
 - ⚡ Some facts about me: **love learning new tech**
 
 <h3 align="left">Languages and Tools:</h3>
