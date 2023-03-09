@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yura</h1>
-<h3 align="center">A newbie frontend developer from Russia</h3>
+<h3 align="center">A 18 y.o. newbie frontend developer from Russia</h3>
 
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/YUzRkMOL-3EAAAAC/programming-computer-frog.gif"/>
 
