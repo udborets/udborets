@@ -36,7 +36,7 @@
 
 ###
 
-<img align="right" height="200" src="https://media.tenor.com/_DOBjnGspYAAAAAC/code-coding.gif"  />
+<img align="right" height="170" src="https://media.tenor.com/_DOBjnGspYAAAAAC/code-coding.gif"  />
 
 ###
 
