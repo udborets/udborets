@@ -5,9 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=udborets&label=Profile%20views&color=7300ff&style=flat-square" alt="udborets" /> </p>
 
-- 🔭 I’m currently working on: [Online Gallery](https://github.com/udborets/online-gallery)
+- 🔭 I’m currently working on [Online Gallery](https://github.com/udborets/online-gallery)
 
-- 🌱 I’m currently learning: **React, RTK, React Query, tRPC, Firebase, CSS, TypeScript**
+- 🌱 I’m currently learning **React, RTK, React Query, tRPC, Firebase, CSS, TypeScript**
 
 - 📫 How to reach me: </br> **telegram: [@udborets](https://t.me/udborets), VK: [@udborets](https://vk.com/udborets), Email: [udborets@gmail.com](mailto:udborets@gmail.com)**
 - ⚡ Some facts about me: **love learning new tech**
