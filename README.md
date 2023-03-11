@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **React, RTK, React Query, tRPC, Firebase, CSS, TypeScript**
 
-- ⚡ Some facts about me: **i speak several languages: :ru: Я говорю по Русски, 🇬🇧 I speak English, <br/> 🇳🇱 Ik spreekt een beetje Nederlands**
+- ⚡ Some facts about me: **i speak several languages: :ru: Я говорю по Русски, 🇬🇧 I speak English, 🇳🇱 Ik spreek een beetje Nederlands**
 
 <br clear="both">
 
