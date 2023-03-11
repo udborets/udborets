@@ -6,9 +6,9 @@
 
 ###
 
-- 🔭 I’m currently working on: [Online Gallery](https://github.com/udborets/online-gallery)
+- 🔭 I’m currently working on [Online Gallery](https://github.com/udborets/online-gallery)
 
-- 🌱 I’m currently learning: **React, RTK, React Query, tRPC, Firebase, CSS, TypeScript**
+- 🌱 I’m currently learning **React, RTK, React Query, tRPC, Firebase, CSS, TypeScript**
 
 - ⚡ Some facts about me: **i speak several languages: :ru: Я говорю по Русски - Russian, 🇬🇧 I speak English - English, <br/> 🇳🇱 Ik spreekt een beetje Nederlands - Dutch**
 
