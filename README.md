@@ -6,6 +6,12 @@
 
 ###
 
+- 🔭 I’m currently working on: [Online Gallery](https://github.com/udborets/online-gallery)
+
+- 🌱 I’m currently learning: **React, RTK, React Query, tRPC, Firebase, CSS, TypeScript**
+
+- ⚡ Some facts about me: **i speak several languages: :ru: Я говорю по Русски - Russian, 🇬🇧 I speak English - English, <br/> 🇳🇱 Ik spreekt een beetje Nederlands - Dutch**
+
 <br clear="both">
 
 <div align="left">
@@ -40,10 +46,12 @@
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=false&count_private=false&disable_animations=false&theme=chartreuse-dark&locale=en&hide_border=false&username=udborets" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=chartreuse-dark&hide_border=false&username=udborets" height="150" alt="languages graph"  />
-</div>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=udborets&show_icons=true&theme=dark&title_color=ffffff&text_color=ffffff&locale=en&layout=compact" alt="udborets" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=udborets&theme=dark" alt="udborets" /></p>
+
+<p>&nbsp; <img align="center" src="https://github-readme-stats.vercel.app/api?username=udborets&show_icons=true&theme=dark&title_color=ffffff&text_color=ffffff&locale=en" alt="udborets" /> </p>
+
 
 ###
 
