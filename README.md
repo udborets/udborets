@@ -42,15 +42,18 @@
 
 ###
 
-<img align="right" height="170" src="https://media.tenor.com/_DOBjnGspYAAAAAC/code-coding.gif"  />
 
 ###
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=udborets&show_icons=true&theme=dark&title_color=ffffff&text_color=ffffff&locale=en&layout=compact" alt="udborets" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=udborets&theme=dark" alt="udborets" /></p>
+
 
 <p>&nbsp; <img align="center" src="https://github-readme-stats.vercel.app/api?username=udborets&show_icons=true&theme=dark&title_color=ffffff&text_color=ffffff&locale=en" alt="udborets" /> </p>
+
+<p><img align="left" width="650" src="https://github-readme-streak-stats.herokuapp.com/?user=udborets&theme=dark" alt="udborets" /></p>
+
+<p><img align="center" width="300" src="https://media.tenor.com/_DOBjnGspYAAAAAC/code-coding.gif"  alt="udborets"/></p>
 
 
 ###
