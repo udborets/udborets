@@ -6,7 +6,7 @@
 
 ###
 
-- 🔭 I’m currently working on [Online Gallery](https://github.com/udborets/online-gallery)
+- 🔭 I’m currently working on [Portfolio](https://github.com/udborets/portfolio), [Online Gallery](https://github.com/udborets/online-gallery)
 
 - 🌱 I’m currently learning **React, RTK, React Query, tRPC, Firebase, CSS, TypeScript**
 
