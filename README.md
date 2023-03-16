@@ -6,6 +6,8 @@
 
 ###
 
+## :point_right: [Check out my portfolio website!](https://udborets.vercel.app)
+
 - 🔭 I’m currently working on [Portfolio](https://github.com/udborets/portfolio), [Online Gallery](https://github.com/udborets/online-gallery)
 
 - 🌱 I’m currently learning **React, RTK, React Query, tRPC, Firebase, CSS, TypeScript**
@@ -45,11 +47,11 @@
 
 ###
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=udborets&show_icons=true&theme=dark&title_color=ffffff&text_color=ffffff&locale=en&layout=compact" alt="udborets" /></p>
+<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=udborets&show_icons=true&theme=dark&title_color=ffffff&text_color=ffffff&locale=en&layout=compact" alt="udborets" /></p> -->
 
 
 
-<p>&nbsp; <img align="center" src="https://github-readme-stats.vercel.app/api?username=udborets&show_icons=true&theme=dark&title_color=ffffff&text_color=ffffff&locale=en" alt="udborets" /> </p>
+<!-- <p>&nbsp; <img align="center" src="https://github-readme-stats.vercel.app/api?username=udborets&show_icons=true&theme=dark&title_color=ffffff&text_color=ffffff&locale=en" alt="udborets" /> </p> -->
 
 <p><img align="left" width="500" src="https://github-readme-streak-stats.herokuapp.com/?user=udborets&theme=dark" alt="udborets" /></p>
 
