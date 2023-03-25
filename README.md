@@ -1,17 +1,14 @@
-<h1 align="center">Hi 👋, I'm Yura</h1>
-<h3 align="center">A passionate frontend developer</h3><p align="left">
+<h1 align="center">My name is Yury</h1>
+<h3 align="center">Frontend developer</h3><p align="left">
 
 <div align="left">
   <img src="https://profile-counter.glitch.me/udborets/count.svg?"  />
 </div>
 
-- ⚡ **[Check out my Portfolio website!](https://udborets.vercel.app)**
+- **[Check out my Portfolio website!](https://udborets.vercel.app)**
 
-- 🔭 I’m currently working on my **[Weather app project](https://github.com/udborets/weather-app)**
+- I’m currently working on my **[Weather app project](https://github.com/udborets/weather-app)**
 
-- 🌱 I’m currently learning **Next, Tailwind, Preact**
-
-- 📫 How to reach me **udborets@gmail.com**
 <div align="center">
   <a href="https://discordapp.com/users/252459667580649472" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
