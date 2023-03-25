@@ -7,7 +7,7 @@
 
 - ⚡ **[Check out my Portfolio website!](https://udborets.vercel.app)**
 
-- 🔭 I’m currently working on my **[Weather app project](https://github.com/udborets/portfolio](https://github.com/udborets/weather-app)**
+- 🔭 I’m currently working on my **[Weather app project](https://github.com/udborets/weather-app)**
 
 - 🌱 I’m currently learning **Next, Tailwind, Preact**
 
