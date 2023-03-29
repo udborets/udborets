@@ -1,5 +1,5 @@
 <h1 align="center">My name is Yury</h1>
-<h2 align="center">Frontend developer</h2><p align="left">
+<h2 align="center">18 years old frontend developer</h2><p align="left">
 
 <div align="left">
   <img src="https://profile-counter.glitch.me/udborets/count.svg?"  />
