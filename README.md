@@ -2,7 +2,7 @@
 
 
 ## 💫 About Me:
-🔭 I’m currently working on [Restaurant app](https://github.com/udborets/restaurant-app), [Portfolio](https://github.com/udborets/portfolio) and [Weather app](https://github.com/udborets/weather-app) projects<br>🌱 I’m currently learning [NextJS](https://nextjs.org/), [Astro](https://astro.build/)<br>⚡ I'm a quick learner and I love sports
+🔭 I’m currently working on [Chat app](https://github.com/udborets/chat-app) project<br>🌱 I’m currently learning [NextJS](https://nextjs.org/), [Astro](https://astro.build/)<br>⚡ I'm a quick learner and I love sports
 
 
 ## 💻 Tech Stack:
