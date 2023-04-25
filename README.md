@@ -2,7 +2,7 @@
 
 
 ## 💫 About Me:
-🔭 I’m currently working on [Chat app](https://github.com/udborets/chat-app) project<br>🌱 I’m currently learning [NextJS](https://nextjs.org/), [Astro](https://astro.build/)<br>⚡ I'm a quick learner and I love sports
+🔭 I’m currently working on [Chat app](https://github.com/udborets/chat-app), [Portfolio](https://github.com/udborets/portfolio) project<br>🌱 I’m currently learning [NextJS](https://nextjs.org/)<br>⚡ I'm a quick learner and I love sports
 
 
 ## 💻 Tech Stack:
