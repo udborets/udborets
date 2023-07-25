@@ -2,8 +2,10 @@
 
 ## I'm a passionate ML engineer (ex frontend dev) 
 
+<!-- 
 ## 💫 About Me:
-🌱 I’m currently learning [PyTorch](https://github.com/udborets/learning-pytorch)<br><br>📫 How to reach me **udborets@gmail.com**
+🌱 I’m currently learning [PyTorch](https://github.com/udborets/learning-pytorch)<br><br>📫 How to reach me **udborets@gmail.com** 
+-->
 
 
 ## 🌐 Socials:
@@ -21,5 +23,3 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=udborets&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
